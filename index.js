@@ -1,6 +1,7 @@
-let mason = (true);
+let mason = ();
+mason = (true);
 if (mason) {
-  console.log('gay');
+  console.log('MASON DETECTED');
 } else {
-  console.log('not gay');
+  console.log('NO MASON DETECTED');
 }
