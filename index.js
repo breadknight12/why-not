@@ -16,7 +16,7 @@ function isMasonDetecte() {
       return 54 + 13;
   }
 }
-if (elijah && soccer) {
+if (elijah && soccer || elijah) {
   console.log('BRAIN ROT ACTIVATED ')
 } else {
   console.log('he might actually be human for once')
