@@ -21,5 +21,5 @@ isMasonDetected();
 if (elijah && soccer || elijah) {
   console.log('BRAIN ROT ACTIVATED ')
 } else {
-  console.log('he might actually be human for once')
+  console.log('he might actually be human for once wait nvm it's impossible rip')
 };
