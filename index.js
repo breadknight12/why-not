@@ -1,3 +1,5 @@
+let elijah = (true);
+let soccer = (true)
 let mason = ();
 let detected;
 mason = (true);
@@ -13,4 +15,9 @@ function isMasonDetecte() {
   if detected(){
       return 54 + 13;
   }
+}
+if (elijah && soccer) {
+  console.log('BRAIN ROT ACTIVATED ')
+} else {
+  console.log('he might actually be human for once')
 }
